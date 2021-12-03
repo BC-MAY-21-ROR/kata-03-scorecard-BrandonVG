@@ -7,16 +7,16 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  name: Brandon Vadillo # Nombre completo
+  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: bvadillo0@ucol.mx
+  phone: 3121683637
   website: # No agregar http://
   linkedin: brightcoders
-  github: brightcoders
+  github: BrandonVG
   gitlab:
   bitbucket:
   twitter: '@BrightCoders'
@@ -27,17 +27,17 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: B2 # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-    - idiom: German
-      level: Colloquial
-
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
     - item: Communication
+      link: # dejar en blanco
+
+    - item: Empathy
       link: # dejar en blanco
 
     - item: Team Work
@@ -46,71 +46,29 @@ sidebar:
     - item: Time Management
       link: # dejar en blanco
 
+    -item: Problem Solving
+      link: # dejar en blanco
+
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    I am a person who is interested on software development who can easily learn in short times. I can work under pressure and looking for improve the skills that I already have.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Software Engineering
+    university: Universidad de Colima
+    time: 2019 - Present
     details: |
-
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
-    details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: BrightCoders 
+    time: 2021 - Present
+    company: BrightCoders, Colima
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      Im learning in BrightCoders web development with Ruby language and framework Ruby on Rails.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -125,21 +83,36 @@ skills:
     - name: Python
       level: 20%
 
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
+    - name: JavaScript
       level: 60%
 
-    - name: Caffe
-      level: 80%
+    - name: NodeJs
+      level: 60%
 
-    - name: Matlab
-      level: 100%
+    - name: HTML
+      level: 60%
+
+    - name: CSS
+      level: 60%
 
     - name: C/C++
       level: 40%
 
+    - name: MySQL
+      level: 40%
+    
+    - name: Git
+      level: 60%
+
+    - name: PHP
+      level: 40%
+
+    - name: Fluter
+      level: 20%
+
+    - name: Ruby
+      level: 20%
+      
 # NO MODIFICAR
 footer: >
   BrightCoders for a brighter future!
