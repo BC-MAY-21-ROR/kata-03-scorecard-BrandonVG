@@ -111,8 +111,10 @@ skills:
       level: 20%
 
     - name: Ruby
-      level: 20%
-      
+      level: 60%
+    
+    - name: C#
+      level: 40%
 # NO MODIFICAR
 footer: >
   BrightCoders for a brighter future!
