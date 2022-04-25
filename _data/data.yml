@@ -15,11 +15,11 @@ sidebar:
   email: bvadillo0@ucol.mx
   phone: 3121683637
   website: # No agregar http://
-  linkedin: brightcoders
+  linkedin: Brandon Azael Vadillo Guzmán
   github: BrandonVG
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: 
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -53,8 +53,7 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    I am a person who is interested on software development who can easily learn in short times. I can work under pressure and looking for improve the skills that I already have.
-
+    I am a person interested in software development with the ability to learn quickly and work under pressure. I am always looking forwards to improving and giving it my best.
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
   - degree: Software Engineering
@@ -65,10 +64,10 @@ educationcomplete:
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: BrightCoders 
-    time: 2021 - Present
+    time: Nov 2021 - March 2022
     company: BrightCoders, Colima
     details: |
-      Im learning in BrightCoders web development with Ruby language and framework Ruby on Rails.
+      I learned in BrightCoders web development with Ruby language and framework Ruby on Rails.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -84,25 +83,25 @@ skills:
       level: 20%
 
     - name: JavaScript
-      level: 60%
+      level: 70%
 
     - name: NodeJs
-      level: 60%
+      level: 50%
 
     - name: HTML
-      level: 60%
+      level: 80%
 
     - name: CSS
-      level: 60%
+      level: 70%
 
     - name: C/C++
       level: 40%
 
-    - name: MySQL
-      level: 40%
+    - name: SQL
+      level: 60%
     
     - name: Git
-      level: 60%
+      level: 70%
 
     - name: PHP
       level: 40%
@@ -113,8 +112,11 @@ skills:
     - name: Ruby
       level: 60%
     
+    - name: Ruby on Rails
+      level: 70%
+    
     - name: C#
-      level: 40%
+      level: 55%
 # NO MODIFICAR
 footer: >
   BrightCoders for a brighter future!
