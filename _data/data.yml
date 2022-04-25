@@ -15,7 +15,7 @@ sidebar:
   email: bvadillo0@ucol.mx
   phone: 3121683637
   website: # No agregar http://
-  linkedin: Brandon Azael Vadillo Guzmán
+  linkedin: brandonavg
   github: BrandonVG
   gitlab:
   bitbucket:
@@ -79,44 +79,46 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
-
-    - name: JavaScript
-      level: 70%
-
-    - name: NodeJs
-      level: 50%
 
     - name: HTML
       level: 80%
 
+    - name: JavaScript
+      level: 80%
+
+    - name: Ruby on Rails
+      level: 70%
+
     - name: CSS
       level: 70%
+
+    - name: Git
+      level: 70%
+
+    - name: Ruby
+      level: 60%
+
+    - name: SQL
+      level: 70%
+
+    - name: C#
+      level: 55%
+
+    - name: NodeJs
+      level: 40%
 
     - name: C/C++
       level: 40%
 
-    - name: SQL
-      level: 60%
-    
-    - name: Git
-      level: 70%
-
     - name: PHP
       level: 40%
+
+    - name: Python
+      level: 20%
 
     - name: Fluter
       level: 20%
 
-    - name: Ruby
-      level: 60%
-    
-    - name: Ruby on Rails
-      level: 70%
-    
-    - name: C#
-      level: 55%
 # NO MODIFICAR
 footer: >
   BrightCoders for a brighter future!
